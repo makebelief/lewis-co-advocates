@@ -39,3 +39,7 @@ The WordPress profile contains an older office suite and some differently format
 
 ## Before publishing
 Confirm the firm's preferred domain, consent to display portrait/logo, the suite number and email accuracy, and the legal wording of policy pages.
+
+## SEO
+
+The site includes unique page titles and descriptions, canonical links, Open Graph / Twitter sharing metadata, LegalService JSON-LD and an XML sitemap. After deployment, verify `/sitemap.xml` and submit the sitemap in Google Search Console. Google indexing is not automatic or guaranteed.
